@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: This sort has the least time consumed on sorting an array of elements that already sorted
+
+sort2 uses: Merge Sort
+
+How do you know?: In a case of reversed order values, this sort has the least time consumed.
+
+sort3 uses: Selection Sort
+
+How do you know?: This sort has the largest time consumed to sort an array of elements that already sorted
